@@ -13,3 +13,6 @@ PADsynth for most other instruments
 Physical modelling: for drums (planned)
 https://github.com/devoln/web-midisynth
 
+Cool Padsynth demo with Vue.js
+https://github.com/ar1st0crat/vue-pad-synth
+
